@@ -110,8 +110,8 @@ function App() {
             </footer>
         </main>
     </div>
-    </body>
-    </div>
+  </body>
+</div>
   );
 }
 
