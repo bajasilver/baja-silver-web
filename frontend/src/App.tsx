@@ -13,6 +13,10 @@ function App() {
 
 
   return (
+<div className=".grid-container">
+<title>Baja Silver</title>
+<link rel="stylesheet" href="index.css" />
+<body>
     <div className="grid-container">
         <header className="header">
             <div className="brand">
@@ -106,6 +110,8 @@ function App() {
             </footer>
         </main>
     </div>
+  </body>
+</div>
   );
 }
 
